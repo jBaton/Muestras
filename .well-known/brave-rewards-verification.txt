@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: bojolorofront.site
-Token: 6557ba57634c49430a0d9f307db3e1861bd08099c20184c0a01e1d0b7c1f0193
+Token: 8adaad6f0d1801dbdce66837080f6165f2cd76e27b29e046672bdd0729fd1203
